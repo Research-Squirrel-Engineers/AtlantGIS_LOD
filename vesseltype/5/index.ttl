@@ -1,7 +1,0 @@
-@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
-
-<http://atlantgis.squirrel.link/data/vesseltype/5> a ns1:VesselType ;
-    ns1:description "Gefäß mit ovoidem Körper und stark über die Gefäßlippe gezogenen Seitenhenkeln"@de ;
-    ns1:function "Kultgefäß"@de ;
-    ns1:name "Nestoris"@de .
-

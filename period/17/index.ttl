@@ -1,8 +1,0 @@
-@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
-
-<http://atlantgis.squirrel.link/data/period/17> a ns1:Period ;
-    ns1:code "IIb"@en ;
-    ns1:description "Period of Kleitos and Poseidons descandants"@en ;
-    ns1:period_after <http://atlantgis.squirrel.link/data/period/25> ;
-    ns1:period_before <http://atlantgis.squirrel.link/data/period/13> .
-

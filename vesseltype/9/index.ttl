@@ -1,7 +1,0 @@
-@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
-
-<http://atlantgis.squirrel.link/data/vesseltype/9> a ns1:VesselType ;
-    ns1:description "Trinkgefäß oder Spendegefäß zum Ausgießen von Trankopfern "@de ;
-    ns1:function "Kultgefäß"@de ;
-    ns1:name "Rhyton"@de .
-

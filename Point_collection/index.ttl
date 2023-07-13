@@ -1,7 +1,7 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://atlantgis.squirrel.link/data/Point_collection> a geo:GeometryCollection ;
+<http://atlantgis.squirrel.link/data/site/Point_collection> a geo:GeometryCollection ;
     rdfs:label "Point Instances Collection" ;
     rdfs:member <http://atlantgis.squirrel.link/data/site/A_geom>,
         <http://atlantgis.squirrel.link/data/site/B_geom>,
