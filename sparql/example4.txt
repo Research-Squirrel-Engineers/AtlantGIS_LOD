@@ -1,0 +1,10 @@
+PREFIX atlantgis: <http://atlantgis.squirrel.link/ontology/>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+
+SELECT ?item ?geo WHERE {
+?period atlantgis:code ?code.
+?item atlantgis:timeperiod ?period.
+?item geosparql:hasGeometry ?geom_obj.
+?geom_obj geosparql:asWKT ?geo.
+FILTER(?code = "IIa"@en)
+}

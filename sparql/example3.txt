@@ -1,0 +1,15 @@
+PREFIX atlantgis: <http://atlantgis.squirrel.link/ontology/>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?item ?geo ?find ?weight ?size ?shapeLabel WHERE {
+?shape atlantgis:name ?shapeLabel.
+?find atlantgis:vesselShape ?shape.
+?find atlantgis:size ?size.
+?find atlantgis:weight ?weight.
+?find atlantgis:site ?item.
+?item geosparql:hasGeometry ?geom_obj.
+?geom_obj geosparql:asWKT ?geo.
+FILTER(xsd:integer(?weight) > 500 && xsd:integer(?size) > 100)
+FILTER(?shapeLabel = "Amphora"@de)
+} ORDER BY DESC(xsd:integer(?weight))

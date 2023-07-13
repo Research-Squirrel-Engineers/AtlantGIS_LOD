@@ -1,0 +1,10 @@
+PREFIX atlantgis: <http://atlantgis.squirrel.link/ontology/>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+
+SELECT ?item ?geo ?archont ?k1 WHERE {
+?item atlantgis:archont ?archont.
+?item atlantgis:keramik1 ?k1.
+?item geosparql:hasGeometry ?geom_obj.
+?geom_obj geosparql:asWKT ?geo.
+FILTER(?k1>5)
+}
