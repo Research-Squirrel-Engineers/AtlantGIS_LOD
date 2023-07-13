@@ -1,0 +1,30 @@
+@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
+
+<http://atlantgis.squirrel.link/data/period/13> a ns1:Period ;
+    ns1:code "IIa"@en ;
+    ns1:description "Period of Kleito and Poseidon"@en ;
+    ns1:period_after <http://atlantgis.squirrel.link/data/period/17> ;
+    ns1:period_before <http://atlantgis.squirrel.link/data/period/5> .
+
+<http://atlantgis.squirrel.link/data/period/17> a ns1:Period ;
+    ns1:code "IIb"@en ;
+    ns1:description "Period of Kleitos and Poseidons descandants"@en ;
+    ns1:period_after <http://atlantgis.squirrel.link/data/period/25> ;
+    ns1:period_before <http://atlantgis.squirrel.link/data/period/13> .
+
+<http://atlantgis.squirrel.link/data/period/10> a ns1:Period ;
+    ns1:code "II"@en ;
+    ns1:description "Period of Kleito and Poseidon as well as of their direct descendants"@en ;
+    ns1:period_after <http://atlantgis.squirrel.link/data/period/25> ;
+    ns1:period_before <http://atlantgis.squirrel.link/data/period/5> .
+
+<http://atlantgis.squirrel.link/data/period/25> a ns1:Period ;
+    ns1:code "III"@en ;
+    ns1:description "Period before doom"@en ;
+    ns1:period_before <http://atlantgis.squirrel.link/data/period/10> .
+
+<http://atlantgis.squirrel.link/data/period/5> a ns1:Period ;
+    ns1:code "I"@en ;
+    ns1:description "Period from genesis to Leukippe and Euenor"@en ;
+    ns1:period_after <http://atlantgis.squirrel.link/data/period/10> .
+

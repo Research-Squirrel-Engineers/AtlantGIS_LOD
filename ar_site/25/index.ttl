@@ -1,0 +1,7 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
+
+<http://atlantgis.squirrel.link/data/ar_site/25> a ns1:ArchaeologicalSite ;
+    ns1:timeperiod <http://atlantgis.squirrel.link/period#17> ;
+    geo:hasGeometry <http://atlantgis.squirrel.link/data/ar_site/25_geom> .
+

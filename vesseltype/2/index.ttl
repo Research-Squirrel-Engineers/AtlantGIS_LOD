@@ -1,0 +1,7 @@
+@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
+
+<http://atlantgis.squirrel.link/data/vesseltype/2> a ns1:VesselType ;
+    ns1:description "flache Schüssel mit horizontalen Henkeln"@de ;
+    ns1:function "Vorratsgefäß"@de ;
+    ns1:name "Lekanis"@de .
+

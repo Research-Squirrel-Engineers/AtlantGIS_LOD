@@ -1,0 +1,7 @@
+@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
+
+<http://atlantgis.squirrel.link/data/vesseltype/6> a ns1:VesselType ;
+    ns1:description "Schöpfkelle mit langem Henkel"@de ;
+    ns1:function "Symposionsgefäß"@de ;
+    ns1:name "Kyathos"@de .
+

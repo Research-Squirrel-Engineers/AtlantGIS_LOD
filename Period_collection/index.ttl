@@ -1,0 +1,11 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://atlantgis.squirrel.link/data/Period_collection> a skos:Collection ;
+    rdfs:label "Period Instances Collection" ;
+    rdfs:member <http://atlantgis.squirrel.link/data/period/10>,
+        <http://atlantgis.squirrel.link/data/period/13>,
+        <http://atlantgis.squirrel.link/data/period/17>,
+        <http://atlantgis.squirrel.link/data/period/25>,
+        <http://atlantgis.squirrel.link/data/period/5> .
+
