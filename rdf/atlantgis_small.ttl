@@ -1,14 +1,14 @@
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX atlantgis: <http://atlantgis.squirrel.link/ontology/>
-PREFIX site: <http://atlantgis.squirrel.link/data/site/>
-PREFIX find: <http://atlantgis.squirrel.link/data/find/>
-PREFIX vesseltype: <http://atlantgis.squirrel.link/data/vesseltype/>
-PREFIX atlantgis: <http://atlantgis.squirrel.link/ontology/>
-PREFIX period: <http://atlantgis.squirrel.link/data/period/>
-PREFIX vesseltype: <http://atlantgis.squirrel.link/data/vesseltype/>
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix atlantgis: <http://atlantgis.squirrel.link/ontology/> .
+@prefix site: <http://atlantgis.squirrel.link/data/site/> .
+@prefix find: <http://atlantgis.squirrel.link/data/find/> .
+@prefix vesseltype: <http://atlantgis.squirrel.link/data/vesseltype/> .
+@prefix atlantgis: <http://atlantgis.squirrel.link/ontology/> .
+@prefix period: <http://atlantgis.squirrel.link/data/period/> .
+@prefix vesseltype: <http://atlantgis.squirrel.link/data/vesseltype/> .
 
 <http://atlantgis.squirrel.link/data/ar_site/18_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
