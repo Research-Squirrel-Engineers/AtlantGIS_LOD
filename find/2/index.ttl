@@ -1,0 +1,18 @@
+@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
+
+<http://atlantgis.squirrel.link/data/find/2> a ns1:Find ;
+    ns1:class "K" ;
+    ns1:feature "surface"@en ;
+    ns1:maxD "24.5" ;
+    ns1:minD "18.5" ;
+    ns1:muendungsD "20.0" ;
+    ns1:object "32" ;
+    ns1:quantity "1" ;
+    ns1:sherd "R" ;
+    ns1:site <http://atlantgis.squirrel.link/data/site/C> ;
+    ns1:size "120" ;
+    ns1:temperSize "VF" ;
+    ns1:vesselShape <http://atlantgis.squirrel.link/data/vesseltype/7> ;
+    ns1:wall "9" ;
+    ns1:weight "92" .
+
