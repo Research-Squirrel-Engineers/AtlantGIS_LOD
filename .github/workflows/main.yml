@@ -20,7 +20,7 @@ jobs:
     with: 
         rdffilepath: rdf/atlantgis_small.ttl rdf/atlantgis.owl
         docpath: docs
-        prefixns: http://atlantgis.squirrel.link/data/site/
+        prefixns: http://atlantgis.squirrel.link/data/
         prefixnsshort: atlantgis
         indexpages: true
         createcollections: true
