@@ -56,7 +56,7 @@ labelproperties={
     "http://www.w3.org/2000/01/rdf-schema#label": "DatatypeProperty"
 }
 
-var baseurl="http://atlantgis.squirrel.link/data/ar_site/"
+var baseurl="http://atlantgis.squirrel.link/data/site/"
   $( function() {
     var availableTags = Object.keys(search)
     $( "#search" ).autocomplete({

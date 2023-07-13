@@ -1,6 +1,0 @@
-@prefix geo: <http://www.opengis.net/ont/geosparql#> .
-
-<http://atlantgis.squirrel.link/data/ar_site/16_geom> a <http://www.opengis.net/ont/sf#MultiPoint> ;
-    geo:asGeoJSON "<http://www.opengis.net/def/crs/EPSG/0/4326> {\"type\":\"Point\",\"coordinates\":[-14.82257382,35.54242984000131]}"^^geo:geojsonLiteral ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-14.82257382 35.54242984000131)"^^geo:wktLiteral .
-

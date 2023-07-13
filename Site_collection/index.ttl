@@ -1,0 +1,16 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://atlantgis.squirrel.link/data/site/Site_collection> a geo:FeatureCollection ;
+    rdfs:label "Site Instances Collection" ;
+    rdfs:member <http://atlantgis.squirrel.link/data/site/A>,
+        <http://atlantgis.squirrel.link/data/site/B>,
+        <http://atlantgis.squirrel.link/data/site/C>,
+        <http://atlantgis.squirrel.link/data/site/D>,
+        <http://atlantgis.squirrel.link/data/site/E>,
+        <http://atlantgis.squirrel.link/data/site/F>,
+        <http://atlantgis.squirrel.link/data/site/G>,
+        <http://atlantgis.squirrel.link/data/site/H>,
+        <http://atlantgis.squirrel.link/data/site/I>,
+        <http://atlantgis.squirrel.link/data/site/J> .
+

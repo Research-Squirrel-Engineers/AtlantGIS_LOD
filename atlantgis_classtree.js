@@ -143,7 +143,7 @@ var tree={
       {
         "id": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "geoclass",
+        "type": "class",
         "text": "ArchaeologicalSite (atlantgis:ArchaeologicalSite) [122]",
         "data": {}
       },
@@ -163,16 +163,16 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N258d3f34df30418cbc5241455c2b9712",
+        "parent": "N9cbf90be1df44c2689853f0f65905e55",
         "type": "class",
         "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
-        "id": "N258d3f34df30418cbc5241455c2b9712",
+        "id": "N9cbf90be1df44c2689853f0f65905e55",
         "parent": "#",
         "type": "class",
-        "text": "N258d3f34df30418cbc5241455c2b9712",
+        "text": "N9cbf90be1df44c2689853f0f65905e55",
         "data": {}
       },
       {
@@ -297,7 +297,7 @@ var tree={
       {
         "id": "http://www.opengis.net/ont/sf#MultiPoint",
         "parent": "http://www.opengis.net/ont/geosparql#Geometry",
-        "type": "geoclass",
+        "type": "class",
         "text": "MultiPoint (sf:MultiPoint) [122]",
         "data": {}
       },
@@ -311,7 +311,7 @@ var tree={
       {
         "id": "http://www.opengis.net/ont/sf#Point",
         "parent": "http://www.opengis.net/ont/geosparql#Geometry",
-        "type": "class",
+        "type": "geoclass",
         "text": "Point (sf:Point) [10]",
         "data": {}
       },
@@ -381,1708 +381,1708 @@ var tree={
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/18_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "18_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/6_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "6_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/3_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "3_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/7_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "7_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/81_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "81_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/120_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "120_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/85_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "85_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/82_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "82_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/60_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "60_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/121_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "121_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/86_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "86_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/64_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "64_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/61_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "61_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/42_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "42_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/20_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "20_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/87_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "87_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/103_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "103_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/68_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "68_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/65_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "65_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/46_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "46_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/43_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "43_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/24_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "24_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/21_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "21_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/107_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "107_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/104_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "104_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/69_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "69_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/47_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "47_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/28_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "28_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/25_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "25_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/108_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "108_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/29_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "29_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/93_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "93_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/90_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "90_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/71_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "71_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/97_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "97_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/94_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "94_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/110_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "110_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/72_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "72_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/50_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "50_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/98_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "98_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/114_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "114_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/111_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "111_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/76_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "76_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/73_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "73_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/54_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "54_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/51_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "51_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/32_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "32_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/10_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "10_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/115_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "115_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/77_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "77_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/58_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "58_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/55_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "55_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/36_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "36_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/33_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "33_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/14_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "14_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/119_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "119_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/11_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "11_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/116_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "116_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/59_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "59_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/37_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "37_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/15_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "15_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/19_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "19_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/4_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "4_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/1_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "1_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/8_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "8_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/5_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "5_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/9_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "9_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/83_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "83_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/80_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "80_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/122_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "122_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/84_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "84_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/100_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "100_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/62_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "62_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/40_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "40_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/88_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "88_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/101_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "101_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/66_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "66_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/63_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "63_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/44_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "44_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/41_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "41_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/22_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "22_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/89_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "89_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/105_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "105_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/102_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "102_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/67_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "67_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/48_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "48_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/45_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "45_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/26_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "26_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/23_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "23_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/109_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "109_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/106_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "106_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/49_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "49_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/27_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "27_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/91_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "91_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/95_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "95_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/92_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "92_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/70_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "70_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/99_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "99_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/96_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "96_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/112_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "112_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/74_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "74_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/52_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "52_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/30_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "30_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/113_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "113_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/78_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "78_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/75_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "75_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/56_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "56_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/53_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "53_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/34_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "34_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/31_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "31_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/12_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "12_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/117_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "117_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/79_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "79_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/57_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "57_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/38_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "38_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/35_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "35_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/16_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "16_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/13_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "13_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/118_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "118_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/39_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "39_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/17_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "17_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/2_geom",
         "parent": "http://www.opengis.net/ont/sf#MultiPoint",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "2_geom",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/95",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "95",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/74",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "74",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/53",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "53",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/118",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "118",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/32",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "32",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/2",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "2",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/11",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "11",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/82",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "82",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/61",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "61",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/40",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "40",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/105",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "105",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/19",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "19",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/90",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "90",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/69",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "69",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/48",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "48",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/113",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "113",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/27",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "27",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/98",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "98",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/77",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "77",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/121",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "121",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/56",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "56",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/100",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "100",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/35",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "35",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/5",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "5",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/14",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "14",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/85",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "85",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/64",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "64",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/43",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "43",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/108",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "108",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/22",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "22",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/93",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "93",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/72",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "72",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/51",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "51",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/116",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "116",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/30",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "30",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/80",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "80",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/103",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "103",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/59",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "59",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/38",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "38",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/17",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "17",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/8",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "8",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/88",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "88",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/67",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "67",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/46",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "46",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/111",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "111",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/25",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "25",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/96",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "96",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/75",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "75",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/119",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "119",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/54",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "54",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/33",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "33",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/3",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "3",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/12",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "12",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/83",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "83",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/62",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "62",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/41",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "41",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/106",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "106",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/20",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "20",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/91",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "91",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/70",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "70",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/114",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "114",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/49",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "49",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/28",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "28",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/99",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "99",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/78",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "78",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/57",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "57",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/122",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "122",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/36",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "36",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/101",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "101",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/6",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "6",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/15",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "15",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/86",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "86",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/65",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "65",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/44",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "44",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/109",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "109",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/23",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "23",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/94",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "94",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/73",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "73",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/117",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "117",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/52",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "52",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/31",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "31",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/1",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "1",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/10",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "10",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/81",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "81",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/60",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "60",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/104",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "104",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/39",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "39",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/9",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "9",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/18",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "18",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/89",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "89",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/68",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "68",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/47",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "47",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/112",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "112",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/26",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "26",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/97",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "97",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/76",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "76",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/55",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "55",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/120",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "120",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/34",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "34",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/4",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "4",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/13",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "13",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/84",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "84",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/63",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "63",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/42",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "42",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/107",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "107",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/21",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "21",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/92",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "92",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/71",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "71",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/50",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "50",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/115",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "115",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/29",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "29",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/79",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "79",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/58",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "58",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/102",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "102",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/37",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "37",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/7",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "7",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/16",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "16",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/87",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "87",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/66",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "66",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/45",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "45",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/110",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "110",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/ar_site/24",
         "parent": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
-        "type": "geoinstance",
+        "type": "instance",
         "text": "24",
         "data": {}
       },
@@ -3146,70 +3146,70 @@ var tree={
       {
         "id": "http://atlantgis.squirrel.link/data/site/A_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "A_geom (site:A_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/B_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "B_geom (site:B_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/C_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "C_geom (site:C_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/D_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "D_geom (site:D_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/E_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "E_geom (site:E_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/F_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "F_geom (site:F_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/G_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "G_geom (site:G_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/H_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "H_geom (site:H_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/I_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "I_geom (site:I_geom)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/J_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "J_geom (site:J_geom)",
         "data": {}
       },
@@ -3277,46 +3277,10 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://atlantgis.squirrel.link/data/ar_site/MultiPoint_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
-        "type": "geocollection",
-        "text": "MultiPoint Instances Collection (MultiPoint_collection)",
-        "data": {}
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
-        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "type": "collectionclass",
-        "text": "GeometryCollection (gsp:GeometryCollection) [1]",
-        "data": {
-          "to": {
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 122,
-              "http://www.opengis.net/ont/sf#MultiPoint": 122
-            }
-          },
-          "from": {}
-        },
-        "instancecount": 125
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "parent": "#",
-        "type": "collectionclass",
-        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
-        "data": {}
-      },
-      {
-        "id": "http://atlantgis.squirrel.link/data/ar_site/ArchaeologicalSite_collection",
+        "id": "http://atlantgis.squirrel.link/data/site/Site_collection",
         "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
         "type": "featurecollection",
-        "text": "ArchaeologicalSite Instances Collection (ArchaeologicalSite_collection)",
+        "text": "Site Instances Collection (site:Site_collection)",
         "data": {}
       },
       {
@@ -3333,13 +3297,49 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 122,
-              "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite": 122
+              "instancecount": 10,
+              "http://atlantgis.squirrel.link/ontology/Site": 10
             }
           },
           "from": {}
         },
-        "instancecount": 125
+        "instancecount": 13
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/data/site/Point_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "type": "geocollection",
+        "text": "Point Instances Collection (site:Point_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "type": "collectionclass",
+        "text": "GeometryCollection (gsp:GeometryCollection) [1]",
+        "data": {
+          "to": {
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 10,
+              "http://www.opengis.net/ont/sf#Point": 10
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 13
       }
     ]
   }
