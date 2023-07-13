@@ -2,6 +2,6 @@
 @prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
 
 <http://atlantgis.squirrel.link/data/ar_site/31> a ns1:ArchaeologicalSite ;
-    ns1:timeperiod <http://atlantgis.squirrel.link/period#13> ;
+    ns1:timeperiod <http://atlantgis.squirrel.link/data/period/13> ;
     geo:hasGeometry <http://atlantgis.squirrel.link/data/ar_site/31_geom> .
 
