@@ -22,7 +22,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/95_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/6_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -36,7 +36,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/74_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/3_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -50,35 +50,35 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/53_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/118>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/118_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/32>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/32_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/2>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/2_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/11>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/11_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/7_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -99,35 +99,35 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/82_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/61>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/61_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/40>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/40_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/105>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/105_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/19>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/19_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/120_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -162,7 +162,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/90_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/121_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -176,7 +176,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/69_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/86_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -190,14 +190,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/48_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/113>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/113_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/64_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -211,7 +211,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/27_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/61_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -260,7 +260,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/98_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/65_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -274,7 +274,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/77_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/46_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -288,7 +288,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/121_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#1> .
+                <http://atlantgis.squirrel.link/data/period/1> .
 
 <http://atlantgis.squirrel.link/data/ar_site/43_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -302,14 +302,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/56_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/100>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/100_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/24_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -323,14 +323,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/35_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/5>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/5_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/21_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -344,7 +344,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/14_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/107_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -393,14 +393,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/85_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/64>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/64_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/108_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -414,21 +414,21 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/43_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/108>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/108_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/22>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/22_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/29_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -442,56 +442,56 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/93_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/72>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/72_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/51>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/51_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/116>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/116_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/30>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/30_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/80>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/80_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/103>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/103_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/59>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/59_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/93_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -512,21 +512,21 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/38_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/17>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/17_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/8>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/8_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/71_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -561,7 +561,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/88_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/72_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -575,14 +575,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/67_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/46>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/46_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/50_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -596,14 +596,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/111_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/25>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/25_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/98_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -659,7 +659,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/96_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/32_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -673,14 +673,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/75_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/119>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/119_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/10_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -694,7 +694,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/54_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/115_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -715,7 +715,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/33_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/58_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -729,14 +729,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/3_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/12>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/12_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/55_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -792,7 +792,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/83_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/59_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -806,7 +806,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/62_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/37_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -820,21 +820,21 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/41_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/106>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/106_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/20>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/20_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/15_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -848,7 +848,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/91_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/19_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -862,21 +862,21 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/70_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/114>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/114_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/49>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/49_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/4_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -890,7 +890,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/28_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/1_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -918,56 +918,56 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/99_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/78>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/78_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/57>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/57_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/122>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/122_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/36>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/36_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/101>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/101_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/6>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/6_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/15>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/15_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/9_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -995,21 +995,21 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/86_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/65>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/65_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/44>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/44_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/122_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1023,14 +1023,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/109_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/23>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/23_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/84_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1072,7 +1072,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/94_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/101_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1086,7 +1086,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/73_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/66_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1100,14 +1100,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/117_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/52>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/52_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/63_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1121,7 +1121,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/31_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/44_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1142,14 +1142,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/1_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/10>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/10_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/22_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1205,7 +1205,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/81_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/26_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1219,7 +1219,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/60_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/23_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1247,28 +1247,28 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/104_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/39>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/39_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/9>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/9_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/18>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/18_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/49_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1289,84 +1289,84 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/89_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/68>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/68_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/47>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/47_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/112>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/112_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/26>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/26_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/97>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/97_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/76>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/76_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/55>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/55_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/120>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/120_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/34>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/34_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/4>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/4_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/13>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/13_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/91_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1387,7 +1387,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/84_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/92_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1401,14 +1401,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/63_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/42>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/42_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/70_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1422,14 +1422,14 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/107_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/21>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/21_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/99_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1464,7 +1464,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/92_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/52_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1478,7 +1478,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/71_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/30_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1492,21 +1492,21 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/50_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/115>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/115_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/29>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/29_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/113_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1576,7 +1576,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/79_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/79_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1590,21 +1590,21 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/58_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/102>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/102_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#5> .
+                <http://atlantgis.squirrel.link/data/period/5> .
 
 <http://atlantgis.squirrel.link/data/ar_site/37>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/37_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/57_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1618,7 +1618,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/7_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/38_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1632,7 +1632,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/16_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/35_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1667,7 +1667,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/87_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#25> .
+                <http://atlantgis.squirrel.link/data/period/25> .
 
 <http://atlantgis.squirrel.link/data/ar_site/39_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1681,7 +1681,7 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/66_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/17_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
@@ -1695,21 +1695,21 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/45_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#10> .
+                <http://atlantgis.squirrel.link/data/period/10> .
 
 <http://atlantgis.squirrel.link/data/ar_site/110>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/110_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#13> .
+                <http://atlantgis.squirrel.link/data/period/13> .
 
 <http://atlantgis.squirrel.link/data/ar_site/24>
         a       <http://atlantgis.squirrel.link/ontology/ArchaeologicalSite> ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://atlantgis.squirrel.link/data/ar_site/24_geom> ;
         <http://atlantgis.squirrel.link/ontology/timeperiod>
-                <http://atlantgis.squirrel.link/period#17> .
+                <http://atlantgis.squirrel.link/data/period/17> .
 
 <http://atlantgis.squirrel.link/data/ar_site/2_geom>
         a       <http://www.opengis.net/ont/sf#MultiPoint> ;
