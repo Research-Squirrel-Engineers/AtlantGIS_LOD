@@ -163,16 +163,16 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N552fc19b3d7646bcbf134ad62f2a269b",
+        "parent": "N1c026d85b31f44feb569ffdac5746fc1",
         "type": "class",
         "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
-        "id": "N552fc19b3d7646bcbf134ad62f2a269b",
+        "id": "N1c026d85b31f44feb569ffdac5746fc1",
         "parent": "#",
         "type": "class",
-        "text": "N552fc19b3d7646bcbf134ad62f2a269b",
+        "text": "N1c026d85b31f44feb569ffdac5746fc1",
         "data": {}
       },
       {
@@ -3347,13 +3347,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 10,
-              "http://atlantgis.squirrel.link/ontology/Site": 10
+              "instancecount": 122,
+              "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite": 122
             }
           },
           "from": {}
         },
-        "instancecount": 13
+        "instancecount": 125
       },
       {
         "id": "http://atlantgis.squirrel.link/data/Find_collection",
@@ -3390,13 +3390,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 9,
-              "http://atlantgis.squirrel.link/ontology/VesselType": 9
+              "instancecount": 136,
+              "http://atlantgis.squirrel.link/ontology/Find": 136
             }
           },
           "from": {}
         },
-        "instancecount": 11
+        "instancecount": 138
       }
     ]
   }
