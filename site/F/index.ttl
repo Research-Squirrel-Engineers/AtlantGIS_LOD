@@ -11,5 +11,5 @@
     ns1:keramik2 1 ;
     ns1:keramik3 9 ;
     ns1:silex 20 ;
-    geo:hasGeometry <http://atlantgis.squirrel.link/data/site/6_geom> .
+    geo:hasGeometry <http://atlantgis.squirrel.link/data/site/F_geom> .
 

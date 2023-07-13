@@ -150,7 +150,7 @@ var tree={
       {
         "id": "http://atlantgis.squirrel.link/ontology/Site",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
-        "type": "class",
+        "type": "geoclass",
         "text": "Site (atlantgis:Site) [10]",
         "data": {}
       },
@@ -163,16 +163,16 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N70103b541abf4a9692045e33f9499d79",
+        "parent": "N759ced594afb4f2d8e68f37089350144",
         "type": "class",
         "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
-        "id": "N70103b541abf4a9692045e33f9499d79",
+        "id": "N759ced594afb4f2d8e68f37089350144",
         "parent": "#",
         "type": "class",
-        "text": "N70103b541abf4a9692045e33f9499d79",
+        "text": "N759ced594afb4f2d8e68f37089350144",
         "data": {}
       },
       {
@@ -3076,70 +3076,70 @@ var tree={
       {
         "id": "http://atlantgis.squirrel.link/data/site/A",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "A (site:A)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/B",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "B (site:B)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/C",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "C (site:C)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/D",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "D (site:D)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/E",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "E (site:E)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/F",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "F (site:F)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/G",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "G (site:G)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/H",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "H (site:H)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/I",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "I (site:I)",
         "data": {}
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/J",
         "parent": "http://atlantgis.squirrel.link/ontology/Site",
-        "type": "instance",
+        "type": "geoinstance",
         "text": "J (site:J)",
         "data": {}
       },
@@ -3390,13 +3390,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 136,
-              "http://atlantgis.squirrel.link/ontology/Find": 136
+              "instancecount": 5,
+              "http://atlantgis.squirrel.link/ontology/Period": 5
             }
           },
           "from": {}
         },
-        "instancecount": 138
+        "instancecount": 7
       }
     ]
   }
