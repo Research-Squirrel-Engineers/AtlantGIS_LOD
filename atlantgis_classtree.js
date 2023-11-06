@@ -163,16 +163,16 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N8c7090caa7b8439ea75bfe008529bf7c",
+        "parent": "N8b347d25f16a410091ebbcb542f08272",
         "type": "class",
         "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
-        "id": "N8c7090caa7b8439ea75bfe008529bf7c",
+        "id": "N8b347d25f16a410091ebbcb542f08272",
         "parent": "#",
         "type": "class",
-        "text": "N8c7090caa7b8439ea75bfe008529bf7c",
+        "text": "N8b347d25f16a410091ebbcb542f08272",
         "data": {}
       },
       {
