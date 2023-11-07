@@ -163,16 +163,16 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N6d76d110bc3a47f5aa0876351b999813",
+        "parent": "N1b60b9a6253847d8b8b4a2838281883c",
         "type": "class",
         "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
-        "id": "N6d76d110bc3a47f5aa0876351b999813",
+        "id": "N1b60b9a6253847d8b8b4a2838281883c",
         "parent": "#",
         "type": "class",
-        "text": "N6d76d110bc3a47f5aa0876351b999813",
+        "text": "N1b60b9a6253847d8b8b4a2838281883c",
         "data": {}
       },
       {
@@ -3347,13 +3347,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 122,
-              "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite": 122
+              "instancecount": 10,
+              "http://atlantgis.squirrel.link/ontology/Site": 10
             }
           },
           "from": {}
         },
-        "instancecount": 125
+        "instancecount": 13
       },
       {
         "id": "http://atlantgis.squirrel.link/data/Find_collection",
