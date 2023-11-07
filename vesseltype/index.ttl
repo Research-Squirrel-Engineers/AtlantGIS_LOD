@@ -1,0 +1,47 @@
+@prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
+
+<http://atlantgis.squirrel.link/data/vesseltype/1> a ns1:VesselType ;
+    ns1:description "bauchiges enghalsiges Gefäß mit zwei Henkeln"@de ;
+    ns1:function "Vorratsgefäß"@de ;
+    ns1:name "Amphora"@de .
+
+<http://atlantgis.squirrel.link/data/vesseltype/2> a ns1:VesselType ;
+    ns1:description "flache Schüssel mit horizontalen Henkeln"@de ;
+    ns1:function "Vorratsgefäß"@de ;
+    ns1:name "Lekanis"@de .
+
+<http://atlantgis.squirrel.link/data/vesseltype/3> a ns1:VesselType ;
+    ns1:description "dickbauchiges Vorratsgefäß mit kurzem Hals und seitlichen"@de ;
+    ns1:function "Vorratsgefäß"@de ;
+    ns1:name "Stamnos"@de .
+
+<http://atlantgis.squirrel.link/data/vesseltype/4> a ns1:VesselType ;
+    ns1:description "pilzähliches Gefäß"@de ;
+    ns1:function "Symposionsgefäß"@de ;
+    ns1:name "Psykter"@de .
+
+<http://atlantgis.squirrel.link/data/vesseltype/5> a ns1:VesselType ;
+    ns1:description "Gefäß mit ovoidem Körper und stark über die Gefäßlippe gezogenen Seitenhenkeln"@de ;
+    ns1:function "Kultgefäß"@de ;
+    ns1:name "Nestoris"@de .
+
+<http://atlantgis.squirrel.link/data/vesseltype/6> a ns1:VesselType ;
+    ns1:description "Schöpfkelle mit langem Henkel"@de ;
+    ns1:function "Symposionsgefäß"@de ;
+    ns1:name "Kyathos"@de .
+
+<http://atlantgis.squirrel.link/data/vesseltype/7> a ns1:VesselType ;
+    ns1:description "Lilienförmiges Vorratsgefäß mit steiler Wandung und ausbiegendem Rand"@de ;
+    ns1:function "Vorratsgefäß"@de ;
+    ns1:name "Kalathos"@de .
+
+<http://atlantgis.squirrel.link/data/vesseltype/8> a ns1:VesselType ;
+    ns1:description "Schale"@de ;
+    ns1:function "Kultgefäß"@de ;
+    ns1:name "Kernos"@de .
+
+<http://atlantgis.squirrel.link/data/vesseltype/9> a ns1:VesselType ;
+    ns1:description "Trinkgefäß oder Spendegefäß zum Ausgießen von Trankopfern "@de ;
+    ns1:function "Kultgefäß"@de ;
+    ns1:name "Rhyton"@de .
+
