@@ -163,16 +163,16 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N05c30ecb673244beb8c054e2a8142378",
+        "parent": "N28e48ef3c99349bd8f4f71bfbab32d4e",
         "type": "class",
         "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
-        "id": "N05c30ecb673244beb8c054e2a8142378",
+        "id": "N28e48ef3c99349bd8f4f71bfbab32d4e",
         "parent": "#",
         "type": "class",
-        "text": "N05c30ecb673244beb8c054e2a8142378",
+        "text": "N28e48ef3c99349bd8f4f71bfbab32d4e",
         "data": {}
       },
       {
@@ -3304,13 +3304,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 122,
-              "http://www.opengis.net/ont/sf#MultiPoint": 122
+              "instancecount": 10,
+              "http://www.opengis.net/ont/sf#Point": 10
             }
           },
           "from": {}
         },
-        "instancecount": 125
+        "instancecount": 13
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -3390,13 +3390,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 9,
-              "http://atlantgis.squirrel.link/ontology/VesselType": 9
+              "instancecount": 5,
+              "http://atlantgis.squirrel.link/ontology/Period": 5
             }
           },
           "from": {}
         },
-        "instancecount": 11
+        "instancecount": 7
       }
     ]
   }
