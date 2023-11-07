@@ -163,16 +163,16 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N1b60b9a6253847d8b8b4a2838281883c",
+        "parent": "N050f95ee8438437e8d33a0c01ce7f18a",
         "type": "class",
         "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
-        "id": "N1b60b9a6253847d8b8b4a2838281883c",
+        "id": "N050f95ee8438437e8d33a0c01ce7f18a",
         "parent": "#",
         "type": "class",
-        "text": "N1b60b9a6253847d8b8b4a2838281883c",
+        "text": "N050f95ee8438437e8d33a0c01ce7f18a",
         "data": {}
       },
       {
@@ -3390,13 +3390,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 5,
-              "http://atlantgis.squirrel.link/ontology/Period": 5
+              "instancecount": 9,
+              "http://atlantgis.squirrel.link/ontology/VesselType": 9
             }
           },
           "from": {}
         },
-        "instancecount": 7
+        "instancecount": 11
       }
     ]
   }
