@@ -163,16 +163,16 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N7ab91d982a824c368061f489acd5072b",
+        "parent": "N3c1b39fc2844446bbfc935ec31c7d99c",
         "type": "class",
         "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
-        "id": "N7ab91d982a824c368061f489acd5072b",
+        "id": "N3c1b39fc2844446bbfc935ec31c7d99c",
         "parent": "#",
         "type": "class",
-        "text": "N7ab91d982a824c368061f489acd5072b",
+        "text": "N3c1b39fc2844446bbfc935ec31c7d99c",
         "data": {}
       },
       {
@@ -3304,13 +3304,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 122,
-              "http://www.opengis.net/ont/sf#MultiPoint": 122
+              "instancecount": 10,
+              "http://www.opengis.net/ont/sf#Point": 10
             }
           },
           "from": {}
         },
-        "instancecount": 125
+        "instancecount": 13
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -3347,13 +3347,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 10,
-              "http://atlantgis.squirrel.link/ontology/Site": 10
+              "instancecount": 122,
+              "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite": 122
             }
           },
           "from": {}
         },
-        "instancecount": 13
+        "instancecount": 125
       },
       {
         "id": "http://atlantgis.squirrel.link/data/Find_collection",
@@ -3390,13 +3390,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 136,
-              "http://atlantgis.squirrel.link/ontology/Find": 136
+              "instancecount": 5,
+              "http://atlantgis.squirrel.link/ontology/Period": 5
             }
           },
           "from": {}
         },
-        "instancecount": 138
+        "instancecount": 7
       }
     ]
   }
