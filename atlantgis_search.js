@@ -1,5 +1,6 @@
 var search={
   "ArchaeologicalSite Instances Collection": "http://atlantgis.squirrel.link/data/ArchaeologicalSite_collection",
+  "CoastLine_Style": "http://atlantgis.squirrel.link/data/nonns_CoastLine_Style.html",
   "Find Instances Collection": "http://atlantgis.squirrel.link/data/Find_collection",
   "MultiPoint Instances Collection": "http://atlantgis.squirrel.link/data/MultiPoint_collection",
   "Period Instances Collection": "http://atlantgis.squirrel.link/data/Period_collection",

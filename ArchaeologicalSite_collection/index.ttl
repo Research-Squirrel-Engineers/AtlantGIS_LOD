@@ -1,8 +1,12 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://atlantgis.squirrel.link/data/ArchaeologicalSite_collection> a geo:FeatureCollection ;
-    rdfs:label "ArchaeologicalSite Instances Collection" ;
+<http://atlantgis.squirrel.link/data/ArchaeologicalSite_collection> a geo:FeatureCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "ArchaeologicalSite Instances Collection"@en ;
+    void:inDataset <http://atlantgis.squirrel.link/data/dataset> ;
     rdfs:member <http://atlantgis.squirrel.link/data/ar_site/1>,
         <http://atlantgis.squirrel.link/data/ar_site/10>,
         <http://atlantgis.squirrel.link/data/ar_site/100>,

@@ -1,0 +1,198 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://atlantgis.squirrel.link/data/dataset> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "dataset"@en ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:modified "2024-01-24T01:45:00"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "dataset"@en ;
+    void:classPartition <http://atlantgis.squirrel.link/data/dataset_ArchaeologicalSite>,
+        <http://atlantgis.squirrel.link/data/dataset_Archont>,
+        <http://atlantgis.squirrel.link/data/dataset_AtlantGIS_Classes>,
+        <http://atlantgis.squirrel.link/data/dataset_CoastLine>,
+        <http://atlantgis.squirrel.link/data/dataset_Collection>,
+        <http://atlantgis.squirrel.link/data/dataset_Feature>,
+        <http://atlantgis.squirrel.link/data/dataset_FeatureCollection>,
+        <http://atlantgis.squirrel.link/data/dataset_Find>,
+        <http://atlantgis.squirrel.link/data/dataset_FindingsEntity>,
+        <http://atlantgis.squirrel.link/data/dataset_Geometry>,
+        <http://atlantgis.squirrel.link/data/dataset_GeometryCollection>,
+        <http://atlantgis.squirrel.link/data/dataset_Goldkupfererz>,
+        <http://atlantgis.squirrel.link/data/dataset_HumanEntity>,
+        <http://atlantgis.squirrel.link/data/dataset_LandType>,
+        <http://atlantgis.squirrel.link/data/dataset_MultiLineString>,
+        <http://atlantgis.squirrel.link/data/dataset_MultiPoint>,
+        <http://atlantgis.squirrel.link/data/dataset_MultiPolygon>,
+        <http://atlantgis.squirrel.link/data/dataset_Period>,
+        <http://atlantgis.squirrel.link/data/dataset_Point>,
+        <http://atlantgis.squirrel.link/data/dataset_Q1554231>,
+        <http://atlantgis.squirrel.link/data/dataset_Q1701967>,
+        <http://atlantgis.squirrel.link/data/dataset_Q17334923>,
+        <http://atlantgis.squirrel.link/data/dataset_Q193379>,
+        <http://atlantgis.squirrel.link/data/dataset_Q3001793>,
+        <http://atlantgis.squirrel.link/data/dataset_Q355304>,
+        <http://atlantgis.squirrel.link/data/dataset_Q6428674>,
+        <http://atlantgis.squirrel.link/data/dataset_Q757267>,
+        <http://atlantgis.squirrel.link/data/dataset_Q839954>,
+        <http://atlantgis.squirrel.link/data/dataset_Resource>,
+        <http://atlantgis.squirrel.link/data/dataset_Silber>,
+        <http://atlantgis.squirrel.link/data/dataset_Site>,
+        <http://atlantgis.squirrel.link/data/dataset_SpatialObject>,
+        <http://atlantgis.squirrel.link/data/dataset_SpatialObjectCollection>,
+        <http://atlantgis.squirrel.link/data/dataset_Stream>,
+        <http://atlantgis.squirrel.link/data/dataset_Style>,
+        <http://atlantgis.squirrel.link/data/dataset_TemporalEntity>,
+        <http://atlantgis.squirrel.link/data/dataset_VesselType>,
+        <http://atlantgis.squirrel.link/data/dataset_Voronoi>,
+        <http://atlantgis.squirrel.link/data/dataset_Wikidata_Classes>,
+        <http://atlantgis.squirrel.link/data/dataset_Zinn> ;
+    void:classes 11,
+        36 ;
+    void:dataDump <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/index.ttl> ;
+    void:distinctObjects 136,
+        719 ;
+    void:distinctSubjects 100,
+        424 ;
+    void:entities 2,
+        422 ;
+    void:exampleResource <>,
+        <file:///home/runner/work/AtlantGIS_LOD/AtlantGIS_LOD/docs/dataset/index.ttl> ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 21,
+        37 ;
+    void:propertyPartition <http://atlantgis.squirrel.link/data/dataset_archont>,
+        <http://atlantgis.squirrel.link/data/dataset_archont_label>,
+        <http://atlantgis.squirrel.link/data/dataset_asGeoJSON>,
+        <http://atlantgis.squirrel.link/data/dataset_asWKT>,
+        <http://atlantgis.squirrel.link/data/dataset_bodenD>,
+        <http://atlantgis.squirrel.link/data/dataset_class>,
+        <http://atlantgis.squirrel.link/data/dataset_code>,
+        <http://atlantgis.squirrel.link/data/dataset_comment>,
+        <http://atlantgis.squirrel.link/data/dataset_contributor>,
+        <http://atlantgis.squirrel.link/data/dataset_creator>,
+        <http://atlantgis.squirrel.link/data/dataset_description>,
+        <http://atlantgis.squirrel.link/data/dataset_domain>,
+        <http://atlantgis.squirrel.link/data/dataset_equivalentClass>,
+        <http://atlantgis.squirrel.link/data/dataset_feature>,
+        <http://atlantgis.squirrel.link/data/dataset_function>,
+        <http://atlantgis.squirrel.link/data/dataset_groupid>,
+        <http://atlantgis.squirrel.link/data/dataset_gruben>,
+        <http://atlantgis.squirrel.link/data/dataset_hasGeometry>,
+        <http://atlantgis.squirrel.link/data/dataset_hasValue>,
+        <http://atlantgis.squirrel.link/data/dataset_keramik1>,
+        <http://atlantgis.squirrel.link/data/dataset_keramik2>,
+        <http://atlantgis.squirrel.link/data/dataset_keramik3>,
+        <http://atlantgis.squirrel.link/data/dataset_label>,
+        <http://atlantgis.squirrel.link/data/dataset_maxD>,
+        <http://atlantgis.squirrel.link/data/dataset_maxD_H>,
+        <http://atlantgis.squirrel.link/data/dataset_minD>,
+        <http://atlantgis.squirrel.link/data/dataset_minD_H>,
+        <http://atlantgis.squirrel.link/data/dataset_muendungsD>,
+        <http://atlantgis.squirrel.link/data/dataset_muendungsH>,
+        <http://atlantgis.squirrel.link/data/dataset_name>,
+        <http://atlantgis.squirrel.link/data/dataset_object>,
+        <http://atlantgis.squirrel.link/data/dataset_onProperty>,
+        <http://atlantgis.squirrel.link/data/dataset_period_after>,
+        <http://atlantgis.squirrel.link/data/dataset_period_before>,
+        <http://atlantgis.squirrel.link/data/dataset_polygonStyle>,
+        <http://atlantgis.squirrel.link/data/dataset_propOrder>,
+        <http://atlantgis.squirrel.link/data/dataset_publisher>,
+        <http://atlantgis.squirrel.link/data/dataset_quantity>,
+        <http://atlantgis.squirrel.link/data/dataset_range>,
+        <http://atlantgis.squirrel.link/data/dataset_rights>,
+        <http://atlantgis.squirrel.link/data/dataset_sherd>,
+        <http://atlantgis.squirrel.link/data/dataset_silex>,
+        <http://atlantgis.squirrel.link/data/dataset_site>,
+        <http://atlantgis.squirrel.link/data/dataset_size>,
+        <http://atlantgis.squirrel.link/data/dataset_standard>,
+        <http://atlantgis.squirrel.link/data/dataset_style>,
+        <http://atlantgis.squirrel.link/data/dataset_subClassOf>,
+        <http://atlantgis.squirrel.link/data/dataset_subPropertyOf>,
+        <http://atlantgis.squirrel.link/data/dataset_subject>,
+        <http://atlantgis.squirrel.link/data/dataset_temperSize>,
+        <http://atlantgis.squirrel.link/data/dataset_timeperiod>,
+        <http://atlantgis.squirrel.link/data/dataset_type>,
+        <http://atlantgis.squirrel.link/data/dataset_versionInfo>,
+        <http://atlantgis.squirrel.link/data/dataset_vesselShape>,
+        <http://atlantgis.squirrel.link/data/dataset_wall>,
+        <http://atlantgis.squirrel.link/data/dataset_weight> ;
+    void:rootResource <>,
+        <file:///home/runner/work/AtlantGIS_LOD/AtlantGIS_LOD/docs/dataset/index.ttl> ;
+    void:triples 326,
+        3954 ;
+    void:uriSpace "http://atlantgis.squirrel.link/data/"^^xsd:string ;
+    void:vocabulary dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    foaf:homepage <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD> ;
+    foaf:page <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/index.html> .
+
+[] a owl:Restriction,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    void:inDataset <http://atlantgis.squirrel.link/data/dataset> ;
+    owl:hasValue <http://atlantgis.squirrel.link/ontology/CoastLine_Style> ;
+    owl:onProperty geo:style .
+

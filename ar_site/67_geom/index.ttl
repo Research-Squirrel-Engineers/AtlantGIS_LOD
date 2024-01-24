@@ -1,6 +1,10 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://atlantgis.squirrel.link/data/ar_site/67_geom> a <http://www.opengis.net/ont/sf#MultiPoint> ;
+<http://atlantgis.squirrel.link/data/ar_site/67_geom> a <http://www.opengis.net/ont/sf#MultiPoint>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <http://atlantgis.squirrel.link/data/dataset> ;
     geo:asGeoJSON "<http://www.opengis.net/def/crs/EPSG/0/4326> {\"type\":\"Point\",\"coordinates\":[-14.69851727,35.607073770001335]}"^^geo:geojsonLiteral ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-14.69851727 35.607073770001335)"^^geo:wktLiteral .
 

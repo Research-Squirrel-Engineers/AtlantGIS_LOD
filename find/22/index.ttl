@@ -1,6 +1,9 @@
 @prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://atlantgis.squirrel.link/data/find/22> a ns1:Find ;
+<http://atlantgis.squirrel.link/data/find/22> a ns1:Find,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     ns1:class "K" ;
     ns1:feature "1"@en ;
     ns1:minD "30.0" ;
@@ -12,5 +15,6 @@
     ns1:temperSize "C" ;
     ns1:vesselShape <http://atlantgis.squirrel.link/data/vesseltype/7> ;
     ns1:wall "5" ;
-    ns1:weight "11" .
+    ns1:weight "11" ;
+    void:inDataset <http://atlantgis.squirrel.link/data/dataset> .
 

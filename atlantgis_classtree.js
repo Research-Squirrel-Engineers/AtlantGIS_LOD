@@ -127,7 +127,7 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://atlantgis.squirrel.link/ontology/CoastLine_Style",
+        "id": "http://atlantgis.squirrel.link/data/nonns_CoastLine_Style.html",
         "parent": "http://www.opengis.net/ont/geosparql#Style",
         "type": "instance",
         "text": "CoastLine_Style (atlantgis:CoastLine_Style)",
@@ -163,16 +163,9 @@ var tree={
       },
       {
         "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
-        "parent": "N52ad44717c6843f1bbf7312c67abb8d3",
-        "type": "class",
-        "text": "CoastLine (atlantgis:CoastLine)",
-        "data": {}
-      },
-      {
-        "id": "N52ad44717c6843f1bbf7312c67abb8d3",
         "parent": "#",
         "type": "class",
-        "text": "N52ad44717c6843f1bbf7312c67abb8d3",
+        "text": "CoastLine (atlantgis:CoastLine)",
         "data": {}
       },
       {
@@ -3297,6 +3290,10 @@ var tree={
         "text": "GeometryCollection (gsp:GeometryCollection) [2]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -3310,7 +3307,7 @@ var tree={
           },
           "from": {}
         },
-        "instancecount": 125
+        "instancecount": 126
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -3340,6 +3337,10 @@ var tree={
         "text": "FeatureCollection (gsp:FeatureCollection) [2]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -3353,7 +3354,7 @@ var tree={
           },
           "from": {}
         },
-        "instancecount": 125
+        "instancecount": 126
       },
       {
         "id": "http://atlantgis.squirrel.link/data/Find_collection",
@@ -3383,6 +3384,10 @@ var tree={
         "text": "Collection (skos:Collection) [3]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -3390,13 +3395,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 9,
-              "http://atlantgis.squirrel.link/ontology/VesselType": 9
+              "instancecount": 136,
+              "http://atlantgis.squirrel.link/ontology/Find": 136
             }
           },
           "from": {}
         },
-        "instancecount": 11
+        "instancecount": 140
       }
     ]
   }

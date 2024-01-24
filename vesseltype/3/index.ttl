@@ -1,7 +1,11 @@
 @prefix ns1: <http://atlantgis.squirrel.link/ontology/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://atlantgis.squirrel.link/data/vesseltype/3> a ns1:VesselType ;
+<http://atlantgis.squirrel.link/data/vesseltype/3> a ns1:VesselType,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     ns1:description "dickbauchiges Vorratsgefäß mit kurzem Hals und seitlichen"@de ;
     ns1:function "Vorratsgefäß"@de ;
-    ns1:name "Stamnos"@de .
+    ns1:name "Stamnos"@de ;
+    void:inDataset <http://atlantgis.squirrel.link/data/dataset> .
 

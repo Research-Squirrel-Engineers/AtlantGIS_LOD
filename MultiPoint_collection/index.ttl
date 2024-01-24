@@ -1,8 +1,12 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://atlantgis.squirrel.link/data/MultiPoint_collection> a geo:GeometryCollection ;
-    rdfs:label "MultiPoint Instances Collection" ;
+<http://atlantgis.squirrel.link/data/MultiPoint_collection> a geo:GeometryCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "MultiPoint Instances Collection"@en ;
+    void:inDataset <http://atlantgis.squirrel.link/data/dataset> ;
     rdfs:member <http://atlantgis.squirrel.link/data/ar_site/100_geom>,
         <http://atlantgis.squirrel.link/data/ar_site/101_geom>,
         <http://atlantgis.squirrel.link/data/ar_site/102_geom>,
