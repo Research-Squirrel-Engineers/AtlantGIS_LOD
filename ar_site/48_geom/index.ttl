@@ -4,7 +4,7 @@
 <http://atlantgis.squirrel.link/data/ar_site/48_geom> a <http://www.opengis.net/ont/sf#MultiPoint>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    void:inDataset <http://atlantgis.squirrel.link/data/dataset> ;
+    void:inDataset <http://atlantgis.squirrel.link/data/atlantgis_dataset> ;
     geo:asGeoJSON "<http://www.opengis.net/def/crs/EPSG/0/4326> {\"type\":\"Point\",\"coordinates\":[-15.46407082,35.718903820001366]}"^^geo:geojsonLiteral ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-15.46407082 35.718903820001366)"^^geo:wktLiteral .
 

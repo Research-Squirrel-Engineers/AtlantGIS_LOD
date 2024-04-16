@@ -7,5 +7,5 @@
     ns1:code "I"@en ;
     ns1:description "Period from genesis to Leukippe and Euenor"@en ;
     ns1:period_after <http://atlantgis.squirrel.link/data/period/10> ;
-    void:inDataset <http://atlantgis.squirrel.link/data/dataset> .
+    void:inDataset <http://atlantgis.squirrel.link/data/atlantgis_dataset> .
 

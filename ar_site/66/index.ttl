@@ -6,6 +6,6 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     ns1:timeperiod <http://atlantgis.squirrel.link/data/period/13> ;
-    void:inDataset <http://atlantgis.squirrel.link/data/dataset> ;
+    void:inDataset <http://atlantgis.squirrel.link/data/atlantgis_dataset> ;
     geo:hasGeometry <http://atlantgis.squirrel.link/data/ar_site/66_geom> .
 

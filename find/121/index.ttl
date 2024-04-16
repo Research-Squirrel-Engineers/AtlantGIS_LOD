@@ -13,5 +13,5 @@
     ns1:temperSize "nan" ;
     ns1:vesselShape <http://atlantgis.squirrel.link/data/vesseltype/7> ;
     ns1:weight "13" ;
-    void:inDataset <http://atlantgis.squirrel.link/data/dataset> .
+    void:inDataset <http://atlantgis.squirrel.link/data/atlantgis_dataset> .
 

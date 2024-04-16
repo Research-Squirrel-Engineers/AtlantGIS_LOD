@@ -14,6 +14,6 @@
     ns1:keramik2 18 ;
     ns1:keramik3 11 ;
     ns1:silex 190 ;
-    void:inDataset <http://atlantgis.squirrel.link/data/dataset> ;
+    void:inDataset <http://atlantgis.squirrel.link/data/atlantgis_dataset> ;
     geo:hasGeometry <http://atlantgis.squirrel.link/data/site/B_geom> .
 

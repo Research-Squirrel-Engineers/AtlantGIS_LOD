@@ -7,5 +7,5 @@
     ns1:description "Schale"@de ;
     ns1:function "Kultgefäß"@de ;
     ns1:name "Kernos"@de ;
-    void:inDataset <http://atlantgis.squirrel.link/data/dataset> .
+    void:inDataset <http://atlantgis.squirrel.link/data/atlantgis_dataset> .
 
