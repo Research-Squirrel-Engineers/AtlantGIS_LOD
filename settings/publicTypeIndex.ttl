@@ -268,42 +268,82 @@
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#9_geom>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#A>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#A_geom>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Ampheres>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#ArchaeologicalSite>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#ArchaeologicalSite_collection>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Archont>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#AtlantGIS_Classes>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Atlas>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Autochthon>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Azaes>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#B>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#B_geom>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#C>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#C_geom>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#CoastLine>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Collection>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#D>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#D_geom>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Diaprepes>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#E>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#E_geom>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Elasippos>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Euaimon>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Eumelos_Gadeiros>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#F>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#F_geom>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Feature>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#FeatureCollection>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Find>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Find_collection>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#FindingsEntity>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#G>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#G_geom>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Geometry>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#GeometryCollection>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Goldkupfererz>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#H>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#H_geom>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#HumanEntity>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#I>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#I_geom>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#J>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#J_geom>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#LandType>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Mestor>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Mneseus>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#MultiLineString>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#MultiPoint>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#MultiPoint_collection>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#MultiPolygon>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Period>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Period_collection>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Point>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Point_collection>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q1554231>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q1701967>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q17334923>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q193379>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q3001793>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q355304>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q6428674>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q757267>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q839954>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Resource>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Silber>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Site>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Site_collection>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#SpatialObject>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#SpatialObjectCollection>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Stream>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Style>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#TemporalEntity>,
         <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#VesselType>,
-        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#VesselType_collection> .
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#VesselType_collection>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Voronoi>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Wikidata_Classes>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Zinn>,
+        <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#nonns_CoastLine_Style.html> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#0> ns1:forClass <http://atlantgis.squirrel.link/ontology/Find> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/0> .
@@ -1221,11 +1261,29 @@
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#A_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/A_geom> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Ampheres> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Ampheres> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#ArchaeologicalSite> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/ArchaeologicalSite> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#ArchaeologicalSite_collection> ns1:forClass geo:FeatureCollection ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/ArchaeologicalSite_collection> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Archont> ns1:forClass <http://atlantgis.squirrel.link/ontology/HumanEntity> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Archont> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#AtlantGIS_Classes> ns1:forClass <#> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/AtlantGIS_Classes> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Atlas> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Atlas> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Autochthon> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Autochthon> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Azaes> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Azaes> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#B> ns1:forClass <http://atlantgis.squirrel.link/ontology/Site> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/B> .
@@ -1239,6 +1297,9 @@
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#C_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/C_geom> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#CoastLine> ns1:forClass <#> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/CoastLine> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Collection> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Collection> .
 
@@ -1248,17 +1309,32 @@
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#D_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/D_geom> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Diaprepes> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Diaprepes> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#E> ns1:forClass <http://atlantgis.squirrel.link/ontology/Site> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/E> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#E_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/E_geom> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Elasippos> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Elasippos> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Euaimon> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Euaimon> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Eumelos_Gadeiros> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Eumelos_Gadeiros> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#F> ns1:forClass <http://atlantgis.squirrel.link/ontology/Site> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/F> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#F_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/F_geom> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Feature> ns1:forClass geo:SpatialObject ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Feature> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#FeatureCollection> ns1:forClass geo:SpatialObjectCollection ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/FeatureCollection> .
@@ -1269,20 +1345,32 @@
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Find_collection> ns1:forClass skos:Collection ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Find_collection> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#FindingsEntity> ns1:forClass <http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/FindingsEntity> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#G> ns1:forClass <http://atlantgis.squirrel.link/ontology/Site> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/G> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#G_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/G_geom> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Geometry> ns1:forClass geo:SpatialObject ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Geometry> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#GeometryCollection> ns1:forClass geo:SpatialObjectCollection ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/GeometryCollection> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Goldkupfererz> ns1:forClass <http://atlantgis.squirrel.link/ontology/Resource> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Goldkupfererz> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#H> ns1:forClass <http://atlantgis.squirrel.link/ontology/Site> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/H> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#H_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/H_geom> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#HumanEntity> ns1:forClass <http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/HumanEntity> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#I> ns1:forClass <http://atlantgis.squirrel.link/ontology/Site> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/I> .
@@ -1296,11 +1384,26 @@
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#J_geom> ns1:forClass <http://www.opengis.net/ont/sf#Point> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/J_geom> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#LandType> ns1:forClass geo:Feature ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/LandType> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Mestor> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Mestor> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Mneseus> ns1:forClass <http://atlantgis.squirrel.link/ontology/Archont> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Mneseus> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#MultiLineString> ns1:forClass geo:Geometry ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/MultiLineString> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#MultiPoint> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/MultiPoint> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#MultiPoint_collection> ns1:forClass geo:GeometryCollection ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/MultiPoint_collection> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#MultiPolygon> ns1:forClass geo:Geometry ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/MultiPolygon> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Period> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Period> .
@@ -1314,18 +1417,75 @@
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Point_collection> ns1:forClass geo:GeometryCollection ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Point_collection> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q1554231> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q1554231> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q1701967> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q1701967> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q17334923> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q17334923> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q193379> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q193379> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q3001793> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q3001793> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q355304> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q355304> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q6428674> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q6428674> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q757267> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q757267> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Q839954> ns1:forClass <http://atlantgis.squirrel.link/ontology/Wikidata_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Q839954> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Resource> ns1:forClass geo:Feature ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Resource> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Silber> ns1:forClass <http://atlantgis.squirrel.link/ontology/Resource> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Silber> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Site> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Site> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Site_collection> ns1:forClass geo:FeatureCollection ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Site_collection> .
 
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#SpatialObject> ns1:forClass <http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/SpatialObject> .
+
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#SpatialObjectCollection> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/SpatialObjectCollection> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Stream> ns1:forClass geo:Feature ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Stream> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Style> ns1:forClass <#> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Style> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#TemporalEntity> ns1:forClass <http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/TemporalEntity> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#VesselType> ns1:forClass <#> ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/VesselType> .
 
 <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#VesselType_collection> ns1:forClass skos:Collection ;
     ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/VesselType_collection> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Voronoi> ns1:forClass geo:Feature ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Voronoi> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Wikidata_Classes> ns1:forClass <#> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Wikidata_Classes> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#Zinn> ns1:forClass <http://atlantgis.squirrel.link/ontology/Resource> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/Zinn> .
+
+<https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/settings/publicTypeIndex.ttl#nonns_CoastLine_Style.html> ns1:forClass geo:Style ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/AtlantGIS_LOD/nonns_CoastLine_Style.html> .
 

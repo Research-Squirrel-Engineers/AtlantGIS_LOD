@@ -905,8 +905,10 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#asGeoJSON": {
               "instancecount": 1
@@ -1789,7 +1791,7 @@ var tree={
         "id": "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite",
         "parent": "#",
         "type": "geoclass",
-        "text": "ArchaeologicalSite (atlantgis:ArchaeologicalSite) [122]",
+        "text": "ArchaeologicalSite (:ArchaeologicalSite) [122]",
         "data": {
           "to": {
             "http://atlantgis.squirrel.link/ontology/timeperiod": {
@@ -1798,8 +1800,10 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -2774,7 +2778,7 @@ var tree={
         "id": "http://atlantgis.squirrel.link/ontology/Find",
         "parent": "#",
         "type": "class",
-        "text": "Find (atlantgis:Find) [136]",
+        "text": "Find (:Find) [136]",
         "data": {
           "to": {
             "http://atlantgis.squirrel.link/ontology/class": {
@@ -2783,16 +2787,7 @@ var tree={
             "http://atlantgis.squirrel.link/ontology/feature": {
               "instancecount": 1
             },
-            "http://atlantgis.squirrel.link/ontology/maxD": {
-              "instancecount": 1
-            },
-            "http://atlantgis.squirrel.link/ontology/maxD_H": {
-              "instancecount": 1
-            },
-            "http://atlantgis.squirrel.link/ontology/muendungsD": {
-              "instancecount": 1
-            },
-            "http://atlantgis.squirrel.link/ontology/muendungsH": {
+            "http://atlantgis.squirrel.link/ontology/minD": {
               "instancecount": 1
             },
             "http://atlantgis.squirrel.link/ontology/object": {
@@ -2826,8 +2821,10 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -2840,7 +2837,7 @@ var tree={
             }
           }
         },
-        "instancecount": 17
+        "instancecount": 14
       },
       {
         "id": "http://atlantgis.squirrel.link/data/period/5",
@@ -2881,7 +2878,7 @@ var tree={
         "id": "http://atlantgis.squirrel.link/ontology/Period",
         "parent": "#",
         "type": "class",
-        "text": "Period (atlantgis:Period) [5]",
+        "text": "Period (:Period) [5]",
         "data": {
           "to": {
             "http://atlantgis.squirrel.link/ontology/code": {
@@ -2890,18 +2887,14 @@ var tree={
             "http://atlantgis.squirrel.link/ontology/description": {
               "instancecount": 1
             },
-            "http://atlantgis.squirrel.link/ontology/period_after": {
-              "instancecount": 1,
-              "http://atlantgis.squirrel.link/ontology/Period": 1
-            },
             "http://atlantgis.squirrel.link/ontology/period_before": {
               "instancecount": 1,
               "http://atlantgis.squirrel.link/ontology/Period": 1
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -2910,15 +2903,11 @@ var tree={
           "from": {
             "http://atlantgis.squirrel.link/ontology/period_after": {
               "instancecount": 0,
-              "http://atlantgis.squirrel.link/ontology/Period": 1
-            },
-            "http://atlantgis.squirrel.link/ontology/period_before": {
-              "instancecount": 0,
-              "http://atlantgis.squirrel.link/ontology/Period": 1
+              "http://atlantgis.squirrel.link/ontology/Period": 2
             },
             "http://atlantgis.squirrel.link/ontology/timeperiod": {
               "instancecount": 0,
-              "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite": 25
+              "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite": 27
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -2926,7 +2915,7 @@ var tree={
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 5
       },
       {
         "id": "http://atlantgis.squirrel.link/data/site/A",
@@ -3002,7 +2991,7 @@ var tree={
         "id": "http://atlantgis.squirrel.link/ontology/Site",
         "parent": "#",
         "type": "geoclass",
-        "text": "Site (atlantgis:Site) [10]",
+        "text": "Site (:Site) [10]",
         "data": {
           "to": {
             "http://atlantgis.squirrel.link/ontology/archont": {
@@ -3031,8 +3020,10 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -3045,7 +3036,7 @@ var tree={
           "from": {
             "http://atlantgis.squirrel.link/ontology/site": {
               "instancecount": 0,
-              "http://atlantgis.squirrel.link/ontology/Find": 65
+              "http://atlantgis.squirrel.link/ontology/Find": 4
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -3134,8 +3125,10 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#asGeoJSON": {
               "instancecount": 1
@@ -3227,7 +3220,7 @@ var tree={
         "id": "http://atlantgis.squirrel.link/ontology/VesselType",
         "parent": "#",
         "type": "class",
-        "text": "VesselType (atlantgis:VesselType) [9]",
+        "text": "VesselType (:VesselType) [9]",
         "data": {
           "to": {
             "http://atlantgis.squirrel.link/ontology/description": {
@@ -3241,8 +3234,10 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -3251,7 +3246,7 @@ var tree={
           "from": {
             "http://atlantgis.squirrel.link/ontology/vesselShape": {
               "instancecount": 0,
-              "http://atlantgis.squirrel.link/ontology/Find": 21
+              "http://atlantgis.squirrel.link/ontology/Find": 8
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -3284,8 +3279,10 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -3332,8 +3329,8 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -3342,13 +3339,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 122,
-              "http://atlantgis.squirrel.link/ontology/ArchaeologicalSite": 122
+              "instancecount": 10,
+              "http://atlantgis.squirrel.link/ontology/Site": 10
             }
           },
           "from": {}
         },
-        "instancecount": 126
+        "instancecount": 14
       },
       {
         "id": "http://atlantgis.squirrel.link/data/Find_collection",
@@ -3380,8 +3377,10 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
               "http://www.w3.org/ns/adms#Asset": 1,
-              "http://rdfs.org/ns/void#Dataset": 1
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -3390,13 +3389,293 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 5,
-              "http://atlantgis.squirrel.link/ontology/Period": 5
+              "instancecount": 136,
+              "http://atlantgis.squirrel.link/ontology/Find": 136
             }
           },
           "from": {}
         },
-        "instancecount": 9
+        "instancecount": 140
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Ampheres",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Ampheres (:Ampheres)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Atlas",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Atlas (:Atlas)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Autochthon",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Autochthon (:Autochthon)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Azaes",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Azaes (:Azaes)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Diaprepes",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Diaprepes (:Diaprepes)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Elasippos",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Elasippos (:Elasippos)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Euaimon",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Euaimon (:Euaimon)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Eumelos_Gadeiros",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Eumelos_Gadeiros (:Eumelos_Gadeiros)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Mestor",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Mestor (:Mestor)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Mneseus",
+        "parent": "http://atlantgis.squirrel.link/ontology/Archont",
+        "type": "instance",
+        "text": "Mneseus (:Mneseus)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Archont",
+        "parent": "http://atlantgis.squirrel.link/ontology/HumanEntity",
+        "type": "class",
+        "text": "Archont (:Archont) [10]",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/HumanEntity",
+        "parent": "http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes",
+        "type": "class",
+        "text": "HumanEntity (:HumanEntity)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/data/nonns_CoastLine_Style.html",
+        "parent": "http://www.opengis.net/ont/geosparql#Style",
+        "type": "instance",
+        "text": "CoastLine_Style (:CoastLine_Style)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#Style",
+        "parent": "#",
+        "type": "class",
+        "text": "Style (gsp:Style) [1]",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes",
+        "parent": "#",
+        "type": "class",
+        "text": "AtlantGIS_Classes (:AtlantGIS_Classes)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/CoastLine",
+        "parent": "#",
+        "type": "class",
+        "text": "CoastLine (:CoastLine)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/FindingsEntity",
+        "parent": "http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes",
+        "type": "class",
+        "text": "FindingsEntity (:FindingsEntity)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Goldkupfererz",
+        "parent": "http://atlantgis.squirrel.link/ontology/Resource",
+        "type": "class",
+        "text": "Goldkupfererz (:Goldkupfererz)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Resource",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "class",
+        "text": "Resource (:Resource)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/LandType",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "class",
+        "text": "LandType (:LandType)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#Feature",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObject",
+        "type": "class",
+        "text": "Feature (gsp:Feature)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/TemporalEntity",
+        "parent": "http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes",
+        "type": "class",
+        "text": "TemporalEntity (:TemporalEntity)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Silber",
+        "parent": "http://atlantgis.squirrel.link/ontology/Resource",
+        "type": "class",
+        "text": "Silber (:Silber)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Stream",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "class",
+        "text": "Stream (:Stream)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Voronoi",
+        "parent": "http://www.opengis.net/ont/geosparql#Feature",
+        "type": "class",
+        "text": "Voronoi (:Voronoi)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "parent": "#",
+        "type": "class",
+        "text": "Wikidata_Classes (:Wikidata_Classes)",
+        "data": {}
+      },
+      {
+        "id": "http://atlantgis.squirrel.link/ontology/Zinn",
+        "parent": "http://atlantgis.squirrel.link/ontology/Resource",
+        "type": "class",
+        "text": "Zinn (:Zinn)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#SpatialObject",
+        "parent": "http://atlantgis.squirrel.link/ontology/AtlantGIS_Classes",
+        "type": "class",
+        "text": "SpatialObject (gsp:SpatialObject)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#Geometry",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObject",
+        "type": "class",
+        "text": "Geometry (gsp:Geometry)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/sf#MultiLineString",
+        "parent": "http://www.opengis.net/ont/geosparql#Geometry",
+        "type": "class",
+        "text": "MultiLineString (sf:MultiLineString)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/sf#MultiPolygon",
+        "parent": "http://www.opengis.net/ont/geosparql#Geometry",
+        "type": "class",
+        "text": "MultiPolygon (sf:MultiPolygon)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1554231",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q1554231 (wde:Q1554231)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1701967",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q1701967 (wde:Q1701967)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q17334923",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q17334923 (wde:Q17334923)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q193379",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q193379 (wde:Q193379)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3001793",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q3001793 (wde:Q3001793)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q355304",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q355304 (wde:Q355304)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6428674",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q6428674 (wde:Q6428674)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q757267",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q757267 (wde:Q757267)",
+        "data": {}
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q839954",
+        "parent": "http://atlantgis.squirrel.link/ontology/Wikidata_Classes",
+        "type": "class",
+        "text": "Q839954 (wde:Q839954)",
+        "data": {}
       }
     ]
   },
